@@ -1,4 +1,4 @@
-# JIAXIAN
+# JIAXIANG
 
 > 本人正在备考CS研究生，同时构建学习笔记。
 
